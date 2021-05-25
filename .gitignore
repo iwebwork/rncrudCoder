@@ -43,22 +43,8 @@ buck-out/
 
 # fastlane
 #
-# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
-# screenshots whenever they are needed.
-# For more information about the recommended setup visit:
-# https://docs.fastlane.tools/best-practices/source-control/
-
-*/fastlane/report.xml
-*/fastlane/Preview.html
-*/fastlane/screenshots
-
-# Bundle artifact
-*.jsbundle
-
-# CocoaPods
-/ios
-/.vscode
-/__tests__
-/android
+# It is recommend/media/igor/AA7A7A817A7A4A59/Users/Igor/Documents/ReactNative/rncrudCoder/.autogit/autogit.json
 /node_modules
-
+/.autogit
+/android
+/ios
